@@ -10006,3 +10006,7 @@ h3 {
     border-color: #dee2e6;
   }
 }
+.card-body-item i {
+	width: 200cm;
+	height: 200cm;
+}
