@@ -1653,7 +1653,7 @@ pre code {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #90e2f0;
+  color: #00477D;
 }
 .table th,
 .table td {
@@ -1878,18 +1878,18 @@ pre code {
 
 .table .thead-dark th {
   color: #fff;
-  background-color: #343a40;
+  background-color: 	#F8F8FF;
   border-color: #454d55;
 }
 .table .thead-light th {
   color: #495057;
-  background-color: #e9ecef;
+  background-color: #F8F8FF;
   border-color: #dee2e6;
 }
 
 .table-dark {
   color: #fff;
-  background-color: #343a40;
+  background-color: #F8F8FF;
 }
 .table-dark th,
 .table-dark td,
@@ -4304,10 +4304,10 @@ input[type=button].btn-block {
 }
 
 .navbar-dark .navbar-brand {
-  color: #fff;
+  color: #B399FF;
 }
 .navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
-  color: #fff;
+  color: #B399FF;
 }
 .navbar-dark .navbar-nav .nav-link {
   color: rgba(255, 255, 255, 0.5);
@@ -4347,7 +4347,7 @@ input[type=button].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: #B399FF;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
