@@ -57,10 +57,11 @@ html {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
-@import('https://fonts.googleapis.com/earlyaccess/cwtexyen.css')
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;900&display=swap')
 
 body {
-  font-family:'cwTeXYen', sans-serif;
+  font-family: 'Noto Sans TC', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
