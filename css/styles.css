@@ -57,27 +57,16 @@ html {
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500&display=swap');
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexming.css);
 
 body {
-  margin: 0;
-  font-family: 'Noto Sans TC', sans-serif;
+  font-family: ‘cwTeXMing’, serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
   color: #000000;
   text-align: left;
   background-color: #F0F8FF;
-}
-@font-face {
-  font-family: 'cwTeXYen';
-  font-style: normal;
-  font-weight: 500;
-  src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot);
-  src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot?#iefix) format('embedded-opentype'),
-       url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff2) format('woff2'),
-       url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff) format('woff'),
-       url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.ttf) format('truetype');
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
