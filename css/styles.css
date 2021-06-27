@@ -1653,7 +1653,7 @@ pre code {
 .table {
   width: 100%;
   margin-bottom: 1rem;
-  color: #00477D;
+  color: #921AFF;
 }
 .table th,
 .table td {
@@ -1705,13 +1705,13 @@ pre code {
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #b8daff;
+  background-color: #FFD306;
 }
 .table-primary th,
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #7abaff;
+  border-color: #FFD306;
 }
 
 .table-hover .table-primary:hover {
@@ -1878,18 +1878,18 @@ pre code {
 
 .table .thead-dark th {
   color: #fff;
-  background-color: 	#F8F8FF;
+  background-color: 	#FFD306;
   border-color: #454d55;
 }
 .table .thead-light th {
   color: #495057;
-  background-color: #F8F8FF;
+  background-color: #FFD306;
   border-color: #dee2e6;
 }
 
 .table-dark {
   color: #fff;
-  background-color: #F8F8FF;
+  background-color: #FFD306;
 }
 .table-dark th,
 .table-dark td,
